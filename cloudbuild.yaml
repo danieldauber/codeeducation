@@ -1,6 +1,6 @@
 steps:
   - id: "Rodando teste"
     name: 'gcr.io/cloud-builders/go:alpine'
-    args: ['test', 'soma']
+    args: ['test', 'app']
 
 tags: ['cloud-builders-community']
