@@ -9,6 +9,7 @@ func plus(a int, b int) int {
 
 func main() {
 
-    res := plus(5, 5)
-    fmt.Println("5+5 =", res)
+    // res := plus(5, 5)
+    // fmt.Println("5+5 =", res)
+    fmt.Println("Code.education Rocks!")
 }
